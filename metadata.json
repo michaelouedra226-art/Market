@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Market",
+  "description": "La marketplace nouvelle génération où acheter et vendre devient simple, rapide et intelligent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
